@@ -324,9 +324,9 @@ ansi-styles@^4.0.0:
   dependencies:
     color-convert "^2.0.1"
 
-"apexcharts@github:tomukasas/apexcharts.js#4.5.0-c2":
+"apexcharts@github:tomukasas/apexcharts.js#4.5.0-c3":
   version "4.5.0-c2"
-  resolved "https://codeload.github.com/tomukasas/apexcharts.js/tar.gz/c9971211bf53352132c31f9263d592ed175e720a"
+  resolved "https://codeload.github.com/tomukasas/apexcharts.js/tar.gz/07e6232991336de157cee0e5ec53c91362fba2dd"
   dependencies:
     "@svgdotjs/svg.draggable.js" "^3.0.4"
     "@svgdotjs/svg.filter.js" "^3.0.8"
