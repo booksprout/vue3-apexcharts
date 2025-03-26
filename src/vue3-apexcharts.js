@@ -21,7 +21,6 @@ const events = [
   "mounted",
   "updated",
   "click",
-  "mouseMove",
   "mouseLeave",
   "legendClick",
   "markerClick",
