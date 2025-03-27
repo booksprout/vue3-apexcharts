@@ -43,7 +43,7 @@
   },
   "peerDependencies": {
     "vue": ">=3.0.0",
-    "apexcharts": "*"
+    "apexcharts": "github:tomukasas/apexcharts.js#4.5.0-c4"
   },
   "devDependencies": {
     "@types/node": "^20.2.5",
