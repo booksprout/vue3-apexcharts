@@ -35,15 +35,15 @@
     "apexcharts"
   ],
   "bugs": {
-    "url": "https://github.com/tomukasas/vue3-apexcharts/issues"
+    "url": "https://github.com/booksprout/vue3-apexcharts/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomukasas/vue3-apexcharts.git"
+    "url": "git+https://github.com/booksprout/vue3-apexcharts.git"
   },
   "peerDependencies": {
     "vue": ">=3.0.0",
-    "apexcharts": "github:tomukasas/apexcharts.js#4.5.0-c13"
+    "apexcharts": "github:booksprout/apexcharts.js#4.5.0-c13"
   },
   "devDependencies": {
     "@types/node": "^20.2.5",
@@ -51,7 +51,7 @@
     "typescript": "^5.0.2",
     "vite": "^4.3.9",
     "vue-tsc": "^1.4.2",
-    "apexcharts": "github:tomukasas/apexcharts.js#4.5.0-c13",
+    "apexcharts": "github:booksprout/apexcharts.js#4.5.0-c13",
     "vue": "^3.0.0",
     "copyfiles": "2.4.0"
   }
